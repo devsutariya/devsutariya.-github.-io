@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(233, 208, 144);
+}
+
+.container{
+    width: 700px;
+    height: 400px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 22px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+.header{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 30px;
+    background-color: teal;
+    padding: 20px;
+}
